@@ -1,0 +1,10 @@
+#hero-image{
+    width: 100%;
+    height: 100vmin;
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  overflow: hidden;
+}
+
+
+/* Hero Page */
