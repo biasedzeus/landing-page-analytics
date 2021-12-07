@@ -1,0 +1,51 @@
+.techno-container{
+    height: 100vh;
+
+    background-color: hotpink;
+    background: url('../../assessts/tech-server.jpg') no-repeat center / cover ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#technology{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#technology h1 b{
+    color: #E8A815;
+    font-size: 4.2rem;
+    text-shadow: black 1px 1px 10px;
+}
+#technology h3{
+    color:#E8A815;
+    font-size: 3rem;
+    text-shadow: black 1px 1px 10px;
+
+
+
+}
+
+#technology h3 b{
+    color:white;
+    font-size: 3rem;
+    text-shadow: black 1px 1px 10px;
+
+
+
+}
+
+#technology p{
+    margin-top: 60px;
+    text-align: center;
+    color: #E8A815;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+#technology p span{
+    color: white;
+    font-weight: 600;
+}
