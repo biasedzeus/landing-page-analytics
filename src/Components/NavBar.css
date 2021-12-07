@@ -1,0 +1,19 @@
+#navbar-container{
+    color: black !important;
+}
+.logo-img{
+    height: 5vmax;
+    width: 100%;
+}
+
+.nav-item{
+    padding-left: 5vmin;
+    padding-right: 5vmin;
+}
+
+#navbarNav{
+    justify-content: center;
+}
+#contact-button{
+    border-radius: 20px ;
+}
