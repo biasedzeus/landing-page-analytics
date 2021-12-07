@@ -31,8 +31,8 @@ const NavBar = () => {
           <a className="nav-link" href="#careers">Careers</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link">
-          <button id="contact-button" type="button" className="btn btn-light">Contact Us</button>
+          <a className="nav-link" href="#contact-us">
+          <button id="contact-button"  type="button" className="btn btn-light">Contact Us</button>
           </a>
         </li>
       </ul>

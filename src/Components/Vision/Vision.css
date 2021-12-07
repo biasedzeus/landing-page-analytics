@@ -1,0 +1,32 @@
+#vision{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #E8A815;
+}
+#vision section h1{
+    text-align: center;
+    letter-spacing: 0.8em;
+    margin-bottom: 150px;
+
+}
+#vision section p{
+    width: 80%;
+    text-align: center;
+    font-size: 1.2rem;
+}
+span{
+    color: white  !important;
+    font-weight: 600;
+}
