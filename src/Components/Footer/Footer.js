@@ -1,20 +1,17 @@
 import React, { useState } from "react";
 import "./Footer.css";
-import angellistLogo from '../../assessts/angellist.png'
-import linkedinLogo from '../../assessts/iconmonstr-linkedin-1.png'
+import angellistLogo from "../../assessts/angellist.png";
+import linkedinLogo from "../../assessts/iconmonstr-linkedin-1.png";
 
 const Footer = () => {
-    const [email, setEmail] = useState("");
-    const [msg,setMsg] = useState("");
+  const [email, setEmail] = useState("");
+  const [msg, setMsg] = useState("");
 
   return (
     <footer id="contact-us">
       <div className="msg-nd-info">
-        <div
-        id="contact-us"
-         className="msg">
+        <div id="contact-us" className="msg">
           <input
-        
             className="email-input"
             type="text/ "
             placeholder="enter email here..."
@@ -34,15 +31,12 @@ const Footer = () => {
             <h3>(214)856-0385</h3>
           </div>
           <div className="linkedin">
-              <a href="http://linkedin.com" target="_blank">
-                  <img src={linkedinLogo}/>
-
-
-              </a>
-              <a href="https://angel.co" target="_blank">
-                  <img src={angellistLogo}/>
-
-              </a>
+            <a href="http://linkedin.com" target="_blank">
+              <img src={linkedinLogo} />
+            </a>
+            <a href="https://angel.co" target="_blank">
+              <img src={angellistLogo} />
+            </a>
           </div>
         </div>
       </div>
