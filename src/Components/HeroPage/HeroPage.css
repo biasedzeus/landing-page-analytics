@@ -1,0 +1,85 @@
+.homepage-container{
+    /* background-color: indianred !important; */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left{
+    height: 100vh;
+    width: 40%;
+    max-width: fit-content;
+    margin-left:100px;
+    /* background-color: lavender; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: -20vmax;
+    margin-left: 10vmax;
+    z-index: 999;
+    color: white;
+}
+.right{
+    width: 60%;
+    max-width: 1200px;
+    margin-left: 50;
+    margin-right: 0;
+    height: 100vh;
+    background: url(../../assessts/heroPage.jpg) no-repeat center / cover;
+    transform: scaleX(-1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content h1{
+    font-size: 5rem;
+    margin-top: -50%;
+    padding-bottom: 10%;
+}
+.content h1{
+    font-weight: lighter;
+
+}
+.content h1 b{
+    font-weight: 600;
+    color:#E8A815;
+}
+.content h1 i{
+    text-decoration: none;
+
+}
+.content input{
+    width: 80%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.content button{
+    width: 20%;
+    padding: 10px;
+    margin-left: -20px;
+    border: none;
+    border-radius: 20px;
+    background-color: #E8A815;
+    /* color: white; */
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+@media only screen and (max-width:768px){
+    .homepage-container{
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+    .left{
+        width: 100%;
+        margin-top: -50vmax;
+        margin-left: -80px;
+
+    }
+    .right{
+        width: 100%;
+    }
+    
+}
