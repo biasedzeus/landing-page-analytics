@@ -4,6 +4,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    background-color: gray;
 }
 .about-us-container section{
     width: 80%;
@@ -33,3 +35,8 @@ color: white;
     
     
 }
+
+/* Technology
+ */
+
+ 

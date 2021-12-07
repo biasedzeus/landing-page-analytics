@@ -3,8 +3,8 @@ import './AboutUs.css';
 
 const AboutUs = () => {
     return (
-      <div id="about-us" className="about-us-container">
-        <section>
+      <div  className="about-us-container">
+        <section id="about-us">
           <h1>
             Welcome to <b>Aarna Analytics</b>
           </h1>
@@ -31,6 +31,7 @@ const AboutUs = () => {
             to everyone.
           </p>
         </section>
+        
       </div>
     );
 }
