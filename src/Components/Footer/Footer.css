@@ -15,7 +15,6 @@ footer{
 }
 
 .info{
-    background-color:green;
     height: 80%;
     width: 50%;
 
@@ -30,7 +29,6 @@ footer{
 
 
 .msg-nd-info{
-    background-color: red;
     height: 80%;
     display: flex;
     justify-content: center;
@@ -63,9 +61,13 @@ img{
     border: none;
  border-radius: 20px;
  width: 10vmax;
- background-color: white;
+ background-color:#E8A815;
  font-weight:500;
 
 }
 .copyright{margin-top: 10px;
+}
+
+.address{
+color: white;
 }

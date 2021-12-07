@@ -34,12 +34,12 @@ const Footer = () => {
             <h3>(214)856-0385</h3>
           </div>
           <div className="linkedin">
-              <a href="http://linkedin.com">
+              <a href="http://linkedin.com" target="_blank">
                   <img src={linkedinLogo}/>
 
 
               </a>
-              <a href="https://gooogle.com">
+              <a href="https://angel.co" target="_blank">
                   <img src={angellistLogo}/>
 
               </a>
