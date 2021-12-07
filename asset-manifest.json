@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/landing-page-analytics/static/css/main.c2374df5.chunk.css",
+    "main.js": "/landing-page-analytics/static/js/main.7ea44ee6.chunk.js",
+    "main.js.map": "/landing-page-analytics/static/js/main.7ea44ee6.chunk.js.map",
+    "runtime-main.js": "/landing-page-analytics/static/js/runtime-main.12368069.js",
+    "runtime-main.js.map": "/landing-page-analytics/static/js/runtime-main.12368069.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/landing-page-analytics/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.daaf88e1.chunk.js": "/landing-page-analytics/static/js/2.daaf88e1.chunk.js",
+    "static/js/2.daaf88e1.chunk.js.map": "/landing-page-analytics/static/js/2.daaf88e1.chunk.js.map",
+    "static/js/3.7787b643.chunk.js": "/landing-page-analytics/static/js/3.7787b643.chunk.js",
+    "static/js/3.7787b643.chunk.js.map": "/landing-page-analytics/static/js/3.7787b643.chunk.js.map",
+    "index.html": "/landing-page-analytics/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/landing-page-analytics/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.c2374df5.chunk.css.map": "/landing-page-analytics/static/css/main.c2374df5.chunk.css.map",
+    "static/js/2.daaf88e1.chunk.js.LICENSE.txt": "/landing-page-analytics/static/js/2.daaf88e1.chunk.js.LICENSE.txt",
+    "static/media/HeroPage.css": "/landing-page-analytics/static/media/heroPage.c1ac5dd2.jpg",
+    "static/media/Technology.css": "/landing-page-analytics/static/media/tech-server.b10ba3ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12368069.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.daaf88e1.chunk.js",
+    "static/css/main.c2374df5.chunk.css",
+    "static/js/main.7ea44ee6.chunk.js"
+  ]
+}
