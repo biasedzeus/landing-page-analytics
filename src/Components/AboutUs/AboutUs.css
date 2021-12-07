@@ -1,0 +1,35 @@
+.about-us-container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-us-container section{
+    width: 80%;
+}
+.about-us-container section h1{
+    padding-bottom: 5%;
+margin-top: -100px;
+text-align: center;
+color: white;
+}
+.about-us-container section p{
+    padding-bottom: 2%;
+    font-size: 1.4rem;
+    text-align: center;
+    color:#E8A815;
+}
+.about-us-container section p b{
+    color: white;
+}
+.about-us-container section p span{
+    color: white;
+}
+@media only screen and (max-width:550px){
+    .about-us-container{
+    margin-top: 80%;
+    }
+    
+    
+}
